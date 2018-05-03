@@ -1,0 +1,40 @@
+/* GCompris - ActivityInfo.qml
+ *
+ * Copyright (C) 2015 Bruno Coudoin <bruno.coudoin@gcompris.net>
+ *
+ * This program is free software; you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation; either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program; if not, see <http://www.gnu.org/licenses/>.
+ */
+import GCompris 1.0
+
+ActivityInfo {
+  name: "redraw_symmetrical/RedrawSymmetrical.qml"
+  difficulty: 4
+  icon: "redraw_symmetrical/redraw_symmetrical.svg"
+  author: "HUBBLE INNOVATIONS LIMITED"
+  demo: false
+  //: Activity title
+  title: qsTr("Mirror the given image")
+  //: Help title
+  description: qsTr("Draw the image on the empty grid as if you see it in a mirror.")
+  //intro: "Use the drawing tools to reproduce the right-hand side symmetrical figure."
+  //: Help goal
+  goal: ""
+  //: Help prerequisite
+  prerequisite: ""
+  //: Help manual
+  manual: qsTr("First, select the proper color from the toolbar. Then drag to paint.") + " " +
+          qsTr("At the first level a hint is provided to show that a symmetry is requested.")
+  credit: ""
+  section: "math geometry symmetry puzzle"
+}

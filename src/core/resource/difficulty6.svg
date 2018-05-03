@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="41.097237"
+   height="37.959557"
+   id="svg4437"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="difficulty6.svg">
+  <defs
+     id="defs4439" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="27.589643"
+     inkscape:cy="10.244281"
+     inkscape:document-units="px"
+     inkscape:current-layer="DIFFICULTY6"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1880"
+     inkscape:window-height="1060"
+     inkscape:window-x="-2"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4196">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <dc:date>2015</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Timothée Giet</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-259.24207,-589.75675)">
+    <g
+       style="display:inline"
+       transform="matrix(0.5596747,0,0,0.5596747,255.62143,588.60348)"
+       id="DIFFICULTY1">
+      <g
+         style="display:inline"
+         id="DIFFICULTY6"
+         transform="matrix(2.0296315,0,0,2.0296315,-970.1361,-647.17658)">
+        <path
+           d="m 494.88959,325.2792 3.26243,-1.53821 0.56886,3.56173 3.54349,0.67318 -1.63331,3.21586 2.47106,2.62743 -3.21162,1.64165 0.45478,3.57809 -3.5632,-0.55962 -1.73523,3.16204 -2.55375,-2.54713 -3.26243,1.5382 -0.56886,-3.56173 -3.54349,-0.67317 1.63331,-3.21587 -2.47106,-2.62743 3.21162,-1.64165 -0.45478,-3.57809 3.5632,0.55962 1.73523,-3.16204 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="-1.0848769"
+           sodipodi:arg1="-1.3990362"
+           sodipodi:r2="9.551321"
+           sodipodi:r1="7.0106697"
+           sodipodi:cy="332.18671"
+           sodipodi:cx="493.69135"
+           sodipodi:sides="10"
+           id="path4584"
+           style="display:inline;overflow:visible;visibility:visible;fill:#f4664c;fill-opacity:1;fill-rule:evenodd;stroke:#cc2d0d;stroke-width:1.7606666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           sodipodi:type="star" />
+        <path
+           d="m 501.18244,332.64532 2.73385,-1.28899 0.47669,2.98466 2.96937,0.5641 -1.36868,2.69483 2.07069,2.20172 -2.69126,1.37566 0.38109,2.99836 -2.98588,-0.46895 -1.45408,2.64973 -2.13998,-2.13445 -2.73385,1.28899 -0.47669,-2.98466 -2.96937,-0.5641 1.36868,-2.69483 -2.07069,-2.20172 2.69126,-1.37567 -0.38109,-2.99835 2.98588,0.46895 1.45408,-2.64973 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="-1.0848769"
+           sodipodi:arg1="-1.3990362"
+           sodipodi:r2="8.0037918"
+           sodipodi:r1="5.874783"
+           sodipodi:cy="338.43367"
+           sodipodi:cx="500.17834"
+           sodipodi:sides="10"
+           id="path4584-3"
+           style="display:inline;overflow:visible;visibility:visible;fill:#f4664c;fill-opacity:1;fill-rule:evenodd;stroke:#cc2d0d;stroke-width:1.7606666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           sodipodi:type="star" />
+        <path
+           d="m 506.39784,339.48561 2.13478,-1.00653 0.37223,2.33063 2.3187,0.44049 -1.06877,2.10431 1.61695,1.71926 -2.10153,1.07422 0.29758,2.34133 -2.33158,-0.36619 -1.13545,2.06909 -1.67105,-1.66672 -2.13478,1.00653 -0.37223,-2.33063 -2.3187,-0.44049 1.06877,-2.10431 -1.61695,-1.71926 2.10153,-1.07422 -0.29758,-2.34133 2.33158,0.36619 1.13545,-2.06909 z"
+           inkscape:randomized="0"
+           inkscape:rounded="0"
+           inkscape:flatsided="false"
+           sodipodi:arg2="-1.0848769"
+           sodipodi:arg1="-1.3990362"
+           sodipodi:r2="6.2499251"
+           sodipodi:r1="4.5874448"
+           sodipodi:cy="344.00554"
+           sodipodi:cx="505.61377"
+           sodipodi:sides="10"
+           id="path4584-3-6"
+           style="display:inline;overflow:visible;visibility:visible;fill:#f4664c;fill-opacity:1;fill-rule:evenodd;stroke:#cc2d0d;stroke-width:1.7606666;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none"
+           sodipodi:type="star" />
+      </g>
+    </g>
+  </g>
+</svg>

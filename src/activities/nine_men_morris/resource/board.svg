@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   sodipodi:docname="board.svg"
+   viewBox="0 0 507.80574 507.80574"
+   sodipodi:version="0.32"
+   version="1.0"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:version="0.91 r13725"
+   width="507.80576"
+   height="507.80576">
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     id="base"
+     bordercolor="#666666"
+     inkscape:pageshadow="2"
+     guidetolerance="10"
+     pagecolor="#ffffff"
+     gridtolerance="10000"
+     inkscape:window-height="705"
+     inkscape:zoom="0.51306865"
+     objecttolerance="10"
+     showgrid="false"
+     borderopacity="1.0"
+     inkscape:current-layer="layer1"
+     inkscape:cx="-104.44183"
+     inkscape:cy="329.83011"
+     inkscape:window-y="-8"
+     inkscape:window-x="-8"
+     inkscape:window-width="1366"
+     inkscape:pageopacity="0.0"
+     inkscape:document-units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-maximized="1" />
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(-114.33974,-118.87461)">
+    <rect
+       id="rect2385"
+       style="fill:none;stroke:#803300;stroke-width:2.79216719;stroke-linejoin:round;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       height="457.45007"
+       width="457.45007"
+       y="143.56859"
+       x="139.48734" />
+    <path
+       id="rect3157"
+       style="fill:none;stroke:#803300;stroke-width:2.79216719;stroke-linejoin:round;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 209.7848,530.7119 316.84583,0 0,-316.83653 -316.84583,0 0,316.83653 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3165"
+       style="fill:none;stroke:#803300;stroke-width:2.87560606;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 136.50133,373.30292 136.3208,0"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3167"
+       style="fill:none;stroke:#803300;stroke-width:2.79216719;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 369.17889,143.24284 0,132.29232"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3163"
+       style="fill:#ffffff;fill-opacity:0;stroke:#803300;stroke-width:2.79216719;stroke-linejoin:round;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 272.13389,468.37211 192.14765,0 0,-192.15696 -192.14765,0 0,192.15696 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3167-4"
+       style="fill:none;stroke:#803300;stroke-width:2.79216719;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 367.3145,469.48788 0,132.29232"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path3165-4"
+       style="fill:none;stroke:#803300;stroke-width:2.83419371;stroke-miterlimit:3.9849999;stroke-dasharray:none;stroke-opacity:0.88627451"
+       d="m 462.72508,373.30292 132.42268,0"
+       inkscape:connector-curvature="0" />
+  </g>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Nine Men's Morris</dc:title>
+        <dc:date>2009-05-28T22:36:41</dc:date>
+        <dc:description>The board setout of Nine Men's Morris.</dc:description>
+        <dc:source>https://openclipart.org/detail/26344/nine-mens-morris-by-chovynz</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>chovynz</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>black and white</rdf:li>
+            <rdf:li>game</rdf:li>
+            <rdf:li>line art</rdf:li>
+            <rdf:li>morris</rdf:li>
+            <rdf:li>nine</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
